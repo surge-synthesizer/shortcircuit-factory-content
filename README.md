@@ -23,8 +23,8 @@ So far there's not much here. But we do have a strategy we're converging on. Som
 
 *There must be absolutely no question about this. The Surge team are all volunteering their time to the project for
 fun, and dealing with licence issues is very much the opposite of fun for most of us. So we would like all the samples
-used here to be more explicitly licenced than "they said it's ok to use" or the like. A clear CC0 note or equivalent
-is strongly preferred.
+used here to be more explicitly licenced than "they said it's ok to use" or the like. A clear CC0 note or equivalent release 
+from the sample author is required for a sample to be merged into this repo, and should be part of the submission.
 
 If this all sounds great, and you're thinking you wanna prepare some very meticulously crafted parts/multis for
 submission, that's great! Just please first come have a chat with the team about your intentions so we know we're on the
