@@ -15,13 +15,14 @@ as a separate download.
 So far there's not much here. But we do have a strategy we're converging on. Something like this:
 
 - Make samples of your own in some way that ensures you have full rights to use them as you wish, and that you are
-  willing to share under a CC0-licence (or equivalent).
+  willing to share under a CC0-licence. By submitting your samples here you are making them available under CC0
+  in perpituity.
 - Alternatively, use samples which already exist out there, and which are unambiguously* licenced in a way that permits
   free redistribution.
 - Use those samples to make an interesting or useful or great-sounding shortcircuit part or multi.
 - Submit those here, adhering to the folder structure described below.
 
-*There must be absolutely no question about this. The Surge team are all volunteering their time to the project for
+* There must be absolutely no question about this. The Surge team are all volunteering their time to the project for
 fun, and dealing with licence issues is very much the opposite of fun for most of us. So we would like all the samples
 used here to be more explicitly licenced than "they said it's ok to use" or the like. A clear CC0 note or equivalent release 
 from the sample author is required for a sample to be merged into this repo, and should be part of the submission.
@@ -38,14 +39,17 @@ and checking in, preferably in the #sc-content-sharing channel.
 So, here's the plan:
 
 - Make your part or multi locally
-- Press "Save with collected samples"
-- Go and find the resulting folder
-- Take the .scp or .scm and copy it into YourFork/Content/Parts or /Multis respectively
-- Go in the samples folder and copy all the samples into the respective /samples subfolder
-- checkout a new branch, commit the change and submit a PR
-
-If only the first three steps made sense to you, then do those and then zip up that folder, contact us (you hopefully
-already have per the above), and a team member will take your zip and add it here.
+- Press "Save (Part-or-Multi) with collected samples"
+- Go and find the resulting folder. You should have "YourThing.scp" or "YourThing.scm" and "YourThing Samples"
+- If you want to work directly with git
+   - fork this repo 
+   - Take the .scp or .scm file and samples directory and copy it into YourFork/Content/Parts or /Multis respectively. 
+     So you should have `Content/Parts/YourThing.scp" and "Content/Parts/YourThing Samples/..."
+   - git commit on a branch and send a PR
+ - If you dont want to work with git
+   - hop into the #shortcircuit-content-sharing channel in our discord
+   - Talk to us about how to share a zip containing the .scp/.scm and " Samples" directory with us
+   - Then we will fork and merge as above. 
 
 ## Licensing
 
