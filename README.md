@@ -17,15 +17,14 @@ So far there's not much here. But we do have a strategy we're converging on. Som
 - Make samples of your own in some way that ensures you have full rights to use them as you wish, and that you are
   willing to share under a CC0-licence. By submitting your samples here you are making them available under CC0
   in perpituity.
-- Alternatively, use samples which already exist out there, and which are unambiguously* licenced in a way that permits
-  free redistribution.
+- Alternatively, use samples which already exist out there, and which are unambiguously licensed in a way that permits
+  free redistribution in a CC0 context.
+    - There must be absolutely no question about this.
+    - The Surge team are all volunteering their time to the project for fun, and dealing with licence issues is very much the opposite of fun for most of us.
+    - Therefore all the samples require clear CC0 or equivalent licence provided from the sample author as part of the submission.
+    - Unfortunately statements like 'They said its ok' or 'I've had these on my HDD forever' won't result in us being able to merge your contribution.
 - Use those samples to make an interesting or useful or great-sounding shortcircuit part or multi.
-- Submit those here, adhering to the folder structure described below.
-
-* There must be absolutely no question about this. The Surge team are all volunteering their time to the project for
-fun, and dealing with licence issues is very much the opposite of fun for most of us. So we would like all the samples
-used here to be more explicitly licenced than "they said it's ok to use" or the like. A clear CC0 note or equivalent release 
-from the sample author is required for a sample to be merged into this repo, and should be part of the submission.
+- Submit that part or multi here, using the file structure outlined below.
 
 If this all sounds great, and you're thinking you wanna prepare some very meticulously crafted parts/multis for
 submission, that's great! Just please first come have a chat with the team about your intentions so we know we're on the
